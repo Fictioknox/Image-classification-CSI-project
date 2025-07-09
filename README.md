@@ -14,8 +14,6 @@ This project classifies plant leaf images into four categories — `healthy`, `r
 - [📊 Evaluation Metrics](#-evaluation-metrics)
 - [🛠️ How to Run](#️-how-to-run)
 - [📈 Results](#-results)
-- [📎 Dependencies](#-dependencies)
-- [📬 Contact](#-contact)
 
 ---
 
